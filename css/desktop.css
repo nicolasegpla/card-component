@@ -1,0 +1,8 @@
+    .container__top {
+        top: -550px;
+        left: -350px;
+    }
+    .container__bottom {
+        right: -350px;
+        bottom: -650px;
+    }
